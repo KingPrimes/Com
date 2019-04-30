@@ -1,0 +1,8 @@
+item.rudder_item.name=橡胶
+item.copper_item.name=铜锭
+item.tin_item.name=锡锭
+item.bronze_item.name=青铜锭
+tile.copper_ore.name=铜矿石
+tile.tin_ore.name=锡矿石
+
+itemGroup.computer=计算机(PC)

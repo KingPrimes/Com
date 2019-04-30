@@ -1,0 +1,9 @@
+item.rudder_item.name=Rubber
+item.copper_item.name=Copper ingot
+item.tin_item.name=Tin ingot
+item.bronze_item.name=Bronze ingot
+tile.copper_ore.name=Copper
+tile.tin_ore.name=Tin
+
+
+itemGroup.computer=Computer
